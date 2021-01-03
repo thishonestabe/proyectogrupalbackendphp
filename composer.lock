@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "4a48593d144eeb402d9c02e6b17eae46",
+=======
+    "content-hash": "56abc574c9c50fc6e4b7f5ef2a76cd50",
+>>>>>>> e62087733bdbf6c66849caaf420a9109b88fc9c8
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1128,6 +1132,7 @@
             "time": "2020-10-29T13:07:12+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/ui",
             "version": "v3.1.0",
             "source": {
@@ -1186,6 +1191,8 @@
             "time": "2020-11-03T19:51:21+00:00"
         },
         {
+=======
+>>>>>>> e62087733bdbf6c66849caaf420a9109b88fc9c8
             "name": "league/commonmark",
             "version": "1.5.7",
             "source": {
